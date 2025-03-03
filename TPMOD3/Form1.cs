@@ -19,7 +19,7 @@ namespace TPMOD3
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            
+            textBox2.Text = "Halo  " + textBox1.Text;
         }
     }
 }
